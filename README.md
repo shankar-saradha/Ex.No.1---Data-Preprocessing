@@ -102,7 +102,7 @@ X_train.shape
 
 ## OUTPUT:
 ### Dataset
-![dataset](./dataset.png)
+![dataset](./dataset.PNG)
 ### Checking for Null Values
 ![null](./null.png)
 ### Checking for duplicate values
